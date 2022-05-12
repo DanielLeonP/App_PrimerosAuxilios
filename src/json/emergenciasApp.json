@@ -1,0 +1,263 @@
+[
+    {
+        "nombre": "Paro Cardiaco",
+        "prioridad": 1,
+        "sintomas": "",
+        "tratamiento": [
+            "",
+            ""
+        ],
+        "imagenes": [
+            "",
+            ""
+        ],
+        "recomendaciones": "",
+        "video": ""
+    },
+    {
+        "nombre": "Ataque al Corazón / Infarto",
+        "prioridad": 2,
+        "sintomas": "Dolor persistente, malestar o presión, constante o paulatina sobre el centro del pecho o sus alrededores, que dura de 3 a 5 minutos, después de este tiempo, la persona empieza a dejar de responder físicamente. Dificultad para respirar, palidez, mareos.",
+        "tratamiento": [
+            "1. Llamar inmediatamente a los servicios de emergencia (911).",
+            "2. Acomodar a la persona en un lugar tranquilo y que respire profundamente.",
+            "3. Aflojar prendas que puedan estar causando presión.",
+            "4. Si la persona se encuentra inconsciente, prepárese para dar RCP:\na) Con la persona boca arriba, colocarse junto al cuello y con las palmas sobre el pecho.",
+            "b) Hacer presión sobre el pecho, con el peso de tu cuerpo, a una profundidad de 5 cm, hacer 5 repeticiones de 30 compresiones en un minuto, esperar a que el pecho retome su posición.",
+            "c) Después de 30 compresiones puedes oxigenar a la persona, primero, inclinar su cabeza y levantarle el mentón.",
+            "d) Aprieta las fosas nasales, y con tu boca cubre la boca de la persona, administra aire durante 1 a 2 segundos.",
+            "e) Repite el ciclo, hasta que lleguen los paramédicos.",
+            "5. Si la persona no se encuentra inconsciente o recobro la conciencia, dar a tomar, una tableta de aspirina."
+        ],
+        "imagenes": [
+            "",
+            ""
+        ],
+        "recomendaciones": [
+            "No trasladar a la persona en automóvil hacia el hospital, puede empeorar la situación, a no ser que no exista otra opción.",
+            "Mantener la calma.",
+            "Conocer si la persona es alérgica a la aspirina.",
+            "No tardar más de 2 horas en atender la emergencia, porque, la persona podría sufrir daño cerebral o un paro cardiaco."
+        ],
+        "video": "https://www.youtube.com/watch?v=dtn5yAKqeXU&ab_channel=SUATEmergencia"
+    },
+    {
+        "nombre": "Ataque Convulsivo / Convulsión",
+        "prioridad": 3,
+        "sintomas": "",
+        "tratamiento": [
+            "",
+            ""
+        ],
+        "imagenes": [
+            "",
+            ""
+        ],
+        "recomendaciones": "",
+        "video": ""
+    },
+    {
+        "nombre": "Atragantamiento / Asfixia",
+        "prioridad": 4,
+        "sintomas": "Obstrucción de las vías respiratorias, ambiente tóxico y/o falta de oxígeno, función pulmonar deficiente, traumatismos torácicos, lesiones cerebrales.",
+        "tratamiento": [
+            "Es necesario hacer uso de la maniobra de Heimlich. Consiste en:",
+            "1. Colocarse detrás de la persona, de manera que su cuerpo quede de lado en relación con la espalda del atragantado. Sus pies deben estar abiertos aprox. al ancho de sus hombros y se coloca uno en medio de los de la persona. Lo anterior para tener más estabilidad corporal.",
+            "2. Rodear con sus brazos la cintura del atragantado. Con una mano se localizará el ombligo; dos dedos arriba de este se colocarán el puño, procurando que el dedo gordo quede arriba de la línea media del abdomen por arriba del ombligo.",
+            "3. Apretar el puño con la otra mano, presionando fuertemente hacia el abdomen de adentro y hacia arriba. Se debe de repetir esta acción hasta que la persona arroje el objeto que está obstruyendo su vía área.",
+            "4. Llamar inmediatamente a los servicios de emergencia (911), para asegurar que nada siga obstruido."
+        ],
+        "imagenes": [
+            "",
+            ""
+        ],
+        "recomendaciones": [
+            "Animar a toser.",
+            "Continuar valorando si se deteriora o si revierte la obstrucción."
+        ],
+        "video": "https://www.youtube.com/watch?v=vBvMbXjCA14&ab_channel=CODEMMadrid"
+    },
+    {
+        "nombre": "Choque Eléctrico",
+        "prioridad": 5,
+        "sintomas": "",
+        "tratamiento": [
+            "",
+            ""
+        ],
+        "imagenes": [
+            "",
+            ""
+        ],
+        "recomendaciones": "",
+        "video": ""
+    },
+    {
+        "nombre": "Cortaduras / Hemorragias",
+        "prioridad": 6,
+        "sintomas": "",
+        "tratamiento": [
+            "",
+            ""
+        ],
+        "imagenes": [
+            "",
+            ""
+        ],
+        "recomendaciones": "",
+        "video": ""
+    },
+    {
+        "nombre": "Ataque de Asma",
+        "prioridad": 7,
+        "sintomas": "",
+        "tratamiento": [
+            "",
+            ""
+        ],
+        "imagenes": [
+            "",
+            ""
+        ],
+        "recomendaciones": "",
+        "video": ""
+    },
+    {
+        "nombre": "Reacciones Alérgicas",
+        "prioridad": 8,
+        "sintomas": "Ardor y comezón en los ojos y/o nariz, salpullido, estornudos, tos, náuseas, nariz congestionada, diarrea, dificultad para respirar, garganta cerrada.",
+        "tratamiento": [
+            "1. Llamar inmediatamente a los servicios de emergencia (911).",
+            "2. Verificar signos vitales.",
+            "3. No administrar medicamentos sin la indicación previa.",
+            "4. En la medida de las posibilidades se debe de identificar la fuente de la alergia y se debe de alejar de la misma.",
+            "5. Si la reacción alérgica es severa se observará: piel fría y húmeda, color pálido, latidos de corazón débiles o rápidos, dificultad para respirar y pérdida de conocimiento "
+        ],
+        "imagenes": [
+            "",
+            ""
+        ],
+        "recomendaciones": [
+            "Algunas personas saben que son alérgicas a ciertas sustancias o a picaduras de insectos. Es posible que hayan aprendido a evitar estas cosas y pueden llevar medicamentos para revertir la reacción alérgica.",
+            "Las personas que tienen reacciones alérgicas graves pueden usar una tarjeta, brazalete o collar de identificación médica."
+        ],
+        "video": "https://www.youtube.com/watch?v=W6WPWuIdaEo&ab_channel=AlergiasMedicinaTV"
+    },
+    {
+        "nombre": "Intoxicación / Envenenamiento por Plantas",
+        "prioridad": 9,
+        "sintomas": "",
+        "tratamiento": [
+            "",
+            ""
+        ],
+        "imagenes": [
+            "",
+            ""
+        ],
+        "recomendaciones": "",
+        "video": ""
+    },
+    {
+        "nombre": "Fracturas Importantes",
+        "prioridad": 10,
+        "sintomas": "",
+        "tratamiento": [
+            "",
+            ""
+        ],
+        "imagenes": [
+            "",
+            ""
+        ],
+        "recomendaciones": "",
+        "video": ""
+    },
+    {
+        "nombre": "Golpe de Calor / Deshidratación",
+        "prioridad": 11,
+        "sintomas": "",
+        "tratamiento": [
+            "",
+            ""
+        ],
+        "imagenes": [
+            "",
+            ""
+        ],
+        "recomendaciones": "",
+        "video": ""
+    },
+    {
+        "nombre": "Hipotermia",
+        "prioridad": 12,
+        "sintomas": "Escalofríos, hablar arrastrando las palabras o balbuceo, respiración lenta y superficial, pulso débil, torpeza o falta de coordinación, somnolencia o muy poca energía, desorientación o pérdida de memoria, pérdida del conocimiento y piel de color rojo brillante y fría (en bebés).",
+        "tratamiento": [
+            "1. Llamar inmediatamente a los servicios de emergencia (911).",
+            "2. Cuando estés ayudando a una persona con hipotermia, trátala con cuidado. Limita los movimientos solo a aquellos que sean necesarios. No le hagas masajes a la persona ni la frotes. Los movimientos excesivos, enérgicos o bruscos pueden causar un paro cardíaco.",
+            "3. Aleja a la persona del frío. Colócala en un sitio seco y cálido si es posible. Si no puedes alejarla, cúbrela del frío y del viento lo máximo posible.",
+            "4. Si la persona tiene la ropa mojada, quítasela.",
+            "5. Cubre a la persona con mantas. Utiliza capas de mantas o abrigos secos para calentar a la persona. Cúbrele la cabeza y solo déjale la cara al descubierto.",
+            "6. Aísla el cuerpo de la persona del suelo frío. Si estás afuera, coloca a la persona boca arriba sobre una manta u otra superficie cálida.",
+            "7. Controla su respiración. Una persona con hipotermia grave puede parecer inconsciente, sin signos aparentes de pulso o respiración.",
+            "8. Si la persona afectada está consciente y puede tragar, dale una bebida tibia, dulce, sin alcohol y sin cafeína para ayudarla a calentar el cuerpo.",
+            "9. Utiliza una compresa cálida de primeros auxilios (una bolsa de plástico rellena de líquido que se calienta cuando se aprieta) o una compresa provisional de agua tibia en una botella de plástico o una toalla calentada con secador. Aplica una compresa solo en el cuello, en la pared torácica o en la ingle.\nNo la coloques en los brazos ni en las piernas. El calor que se aplica en los brazos y las piernas obliga a que la sangre fría vuelva al corazón, los pulmones y el cerebro, lo que provoca que la temperatura corporal interna disminuya. Esto puede ser mortal."
+        ],
+        "imagenes": [
+            "",
+            ""
+        ],
+        "recomendaciones": [
+            "No utilices agua caliente, compresas calientes ni lámparas de calentamiento para calentar a la persona. El calor extremo puede dañar la piel o, lo que es peor, provocar latidos del corazón irregulares tan graves que pueden hacer que el corazón se detenga.",
+            "Vista ropa abrigada, de capas múltiples con buena protección para las manos y los pies (evite el uso de muñequeras, calcetines y zapatos estrechos).",
+            "Use protección de cabeza abrigada. Esto es particularmente importante ya que una cantidad de calor significante se pierde por la cabeza no protegida.",
+            "Si es posible, cámbiese ropa seca cada vez que se moje su ropa."
+        ],
+        "video": "https://www.youtube.com/watch?v=GRUREDhFsgo&ab_channel=ONsalus"
+    },
+    {
+        "nombre": "Quemaduras Importantes",
+        "prioridad": 13,
+        "sintomas": "",
+        "tratamiento": [
+            "",
+            ""
+        ],
+        "imagenes": [
+            "",
+            ""
+        ],
+        "recomendaciones": "",
+        "video": ""
+    },
+    {
+        "nombre": "Mordedura / Picaduras",
+        "prioridad": 14,
+        "sintomas": "",
+        "tratamiento": [
+            "",
+            ""
+        ],
+        "imagenes": [
+            "",
+            ""
+        ],
+        "recomendaciones": "",
+        "video": ""
+    },
+    {
+        "nombre": "Calambres / Esguinces",
+        "prioridad": 15,
+        "sintomas": "",
+        "tratamiento": [
+            "",
+            ""
+        ],
+        "imagenes": [
+            "",
+            ""
+        ],
+        "recomendaciones": "",
+        "video": ""
+    }
+]
