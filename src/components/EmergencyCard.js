@@ -9,7 +9,7 @@ class EmergencyCard extends React.Component {
         return (
             EmergenciaData.map( emergencia => {
                 return(
-                    <TouchableOpacity activeOpacity={0.1} underlayColor="#0be881" onPress={() => console.log(emergencia.nombre + " - " + emergencia.prioridad)} key={emergencia.prioridad}>
+                    <TouchableOpacity activeOpacity={0.1} underlayColor="#0be881" onPress={() => {console.log(emergencia.nombre + " - " + emergencia.prioridad); }} key={emergencia.prioridad}>
                         <Card>
                             <View style={{flex: 1, flexDirection: 'row', justifyContent: 'space-between'}} >
                                 <Text style={{fontSize: 16, fontFamily: 'sans-serif-medium'}} >{emergencia.nombre}</Text>
