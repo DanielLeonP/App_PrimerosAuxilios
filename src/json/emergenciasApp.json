@@ -11,7 +11,10 @@
             "",
             ""
         ],
-        "recomendaciones": "",
+        "recomendaciones": [
+            "",
+            ""
+        ],
         "video": ""
     },
     {
@@ -44,17 +47,26 @@
     {
         "nombre": "Ataque Convulsivo / Convulsión",
         "prioridad": 3,
-        "sintomas": "",
+        "sintomas": "Rigidez en el cuerpo y movimientos involuntarios y espasmódicos, babeo o generación de espuma por la boca, gruñidos, movimientos rápidos de los ojos, inclusive perdida de control de su cuerpo.",
         "tratamiento": [
-            "",
-            ""
+            "1. Quitar objetos con los que podría lastimarse la persona.",
+            "2. Si la persona esta tirada, posicionarla de lado, en caso de estar sentada, colocarla recostada sobre en el piso.",
+            "3. Llamar a las unidades de emergencia (911).",
+            "4. No detener los movimientos ni introducir nada en la boca.",
+            "5. Permitir que el aire pueda entrar al cuerpo de la persona, no obstruir ningún tipo de recepción de aire.",
+            "6. Después de la crisis colocar a la persona en posición lateral de seguridad."
         ],
         "imagenes": [
             "",
             ""
         ],
-        "recomendaciones": "",
-        "video": ""
+        "recomendaciones": [
+            "Tomar sus medicamentos.",
+            "Dormir lo suficiente.",
+            "Disminuir el estrés.",
+            "No observar luces estroboscópicas."
+        ],
+        "video": "https://www.youtube.com/watch?v=sIlfgtHpf-0"
     },
     {
         "nombre": "Atragantamiento / Asfixia",
@@ -78,19 +90,28 @@
         "video": "https://www.youtube.com/watch?v=vBvMbXjCA14&ab_channel=CODEMMadrid"
     },
     {
-        "nombre": "Choque Eléctrico",
+        "nombre": "Choque Eléctrico / Electrocución",
         "prioridad": 5,
-        "sintomas": "",
+        "sintomas": "Quemaduras, dolor constante o palpitante en todo el cuerpo, incapacidad de moverse o responder a cualquier acción, la persona puede estar inconsciente, desmayo, hormigueo, ataques espasmódicos.",
         "tratamiento": [
-            "",
-            ""
+            "1. NO tocar a la persona que está sufriendo el choque o lo acaba de sufrir, esto podría provocarle un choque a usted también.",
+            "2. Buscar la fuente de poder que está generando la electricidad del choque, y cortarla.",
+            "3. En caso de no poder alcanzar la fuente de poder o no encontrarla, alejar o separar a la persona de la fuente de electrocución con uno de los siguientes materiales: madera no seca, vidrio, plástico grueso, cerámica, cuero, siempre vigilar que no entres en contacto con la persona afectada y de ser posible no estés en contacto directo con el suelo.",
+            "4. Una vez separado, llamar a los paramédicos (911).",
+            "5. Evitar que la persona afectada se acerque a zonas con alta o baja corriente durante su traslado al hospital."
         ],
         "imagenes": [
             "",
             ""
         ],
-        "recomendaciones": "",
-        "video": ""
+        "recomendaciones": [
+            "Instalar interruptores automáticos en el hogar.",
+            "Desconectar la fuente eléctrica en caso de hacer cualquier trabajo eléctrico.",
+            "No conectar dispositivos húmedos o mojados la red eléctrica.",
+            "No jugar con herramientas o materiales eléctricas cerca de zonas de alto voltaje.",
+            "Utilizar zapatos de caucho, para trabajos eléctricos."
+        ],
+        "video": "https://www.youtube.com/watch?v=cdEGIBokVXU&ab_channel=ORGANIZACI%C3%93NIBEROAMERICANADESEGURIDADSOCIAL"
     },
     {
         "nombre": "Cortaduras / Hemorragias",
@@ -104,23 +125,35 @@
             "",
             ""
         ],
-        "recomendaciones": "",
+        "recomendaciones": [
+            "",
+            ""
+        ],
         "video": ""
     },
     {
         "nombre": "Ataque de Asma",
         "prioridad": 7,
-        "sintomas": "",
+        "sintomas": "Dificultad para respirar, pulso acelerado, sensación de opresión en el pecho, ansiedad.",
         "tratamiento": [
-            "",
-            ""
+            "1. Si es un ataque agudo, solicitar ayuda médica de inmediato.",
+            "2. Tranquilizar a la persona afectada.",
+            "3. Solicitarle que se siente.",
+            "4. Utilizar el broncodilatador/inhalador para aminorar los síntomas.",
+            "5. En caso de no contar con él, pedir a la persona que levante los brazos, apoyarlos en la pared y cabeza abajo."
         ],
         "imagenes": [
             "",
             ""
         ],
-        "recomendaciones": "",
-        "video": ""
+        "recomendaciones": [
+            "Tómate los medicamentos del asma según las indicaciones de tu médico.",
+            "Evitar el humo del tabaco.",
+            "Evitar ambientes contaminados.",
+            "Realizar solo el ejercicio indicado por su médico.",
+            "Mantener la casa libre de polvo."
+        ],
+        "video": "https://www.youtube.com/watch?v=Y_eNCrEEQ7M"
     },
     {
         "nombre": "Reacciones Alérgicas",
@@ -131,7 +164,7 @@
             "2. Verificar signos vitales.",
             "3. No administrar medicamentos sin la indicación previa.",
             "4. En la medida de las posibilidades se debe de identificar la fuente de la alergia y se debe de alejar de la misma.",
-            "5. Si la reacción alérgica es severa se observará: piel fría y húmeda, color pálido, latidos de corazón débiles o rápidos, dificultad para respirar y pérdida de conocimiento "
+            "5. Si la reacción alérgica es severa se observará: piel fría y húmeda, color pálido, latidos de corazón débiles o rápidos, dificultad para respirar y pérdida de conocimiento."
         ],
         "imagenes": [
             "",
@@ -144,19 +177,29 @@
         "video": "https://www.youtube.com/watch?v=W6WPWuIdaEo&ab_channel=AlergiasMedicinaTV"
     },
     {
-        "nombre": "Intoxicación / Envenenamiento por Plantas",
+        "nombre": "Intoxicación / Envenenamiento",
         "prioridad": 9,
-        "sintomas": "",
+        "sintomas": "Malestar, dolor de cabeza, mareos, náuseas o vómitos. Ardor y/o dolor de garganta, tos repentina, dificultad para tragar o respirar, babeo, falta de fuerzas, somnolencia repentina, confusión o disminución de la capacidad mental, convulsiones, desvanecimiento, ronchas repentinas, inflamación, cambio de color de la piel, de los labios, debilidad, irritabilidad, vértigo, fiebre.",
         "tratamiento": [
-            "",
-            ""
+            "1. Llamar inmediatamente a los paramédicos (911).",
+            "2. Dependiendo de como fue la intoxicación/envenenamiento se debe aplicar una de las siguientes medidas:",
+            "Si el contacto fue por vía oral:\nNo hacer vomitar a la persona a menos que se le sea indicado por un profesional, reconfortar a la persona y/o llevarla a un centro de salud.",
+            "Si el contacto fue por la piel:\nQuitar la ropa y lavar, masajear o tallar con abundante agua la piel durante 15 a 20 minutos.",
+            "Si el contacto fue vía inhalatoria:\nTrasladar a la persona a un lugar bien ventilado y dejarla reposar.",
+            "Si el contacto fue en el ojo:\nFrotar suavemente un paño mojado a temperatura ambiente, durante 15 a 20 minutos, después dejar reposar el ojo."
         ],
         "imagenes": [
             "",
             ""
         ],
-        "recomendaciones": "",
-        "video": ""
+        "recomendaciones": [
+            "Si una comida o medicamento huele mal, no consumirlo.",
+            "No mezclar productos químicos sin previo conocimiento.",
+            "No acampar en zonas con hierba o plantas desconocidas, mejor en tierra o rocas.",
+            "No consumir cualquier planta que se pueda encontrar en la naturaleza, sin estar seguro de cuál es.",
+            "Mantener siempre ventilado el hogar."
+        ],
+        "video": "https://www.youtube.com/watch?v=fQC6yHfCkYQ&ab_channel=SikanaES"
     },
     {
         "nombre": "Fracturas Importantes",
@@ -170,23 +213,33 @@
             "",
             ""
         ],
-        "recomendaciones": "",
+        "recomendaciones": [
+            "",
+            ""
+        ],
         "video": ""
     },
     {
         "nombre": "Golpe de Calor / Deshidratación",
         "prioridad": 11,
-        "sintomas": "",
+        "sintomas": "Labios secos, dolor de cabeza, adormecimiento, calambres, mucha sed, piel seca, arrugada y ausencia de sudoración.",
         "tratamiento": [
-            "",
-            ""
+            "1. La persona debe permanecer en reposo en un ambiente tranquilo.",
+            "2. Administrar electrolitos o agua con azúcar con un poco de sal.",
+            "3. Realizar revisión general de signos vitales.",
+            "4. En caso de que el malestar continúe derivar a un médico."
         ],
         "imagenes": [
             "",
             ""
         ],
-        "recomendaciones": "",
-        "video": ""
+        "recomendaciones": [
+            "Es importante beber líquidos al estar realizando actividades intensas y prolongadas.",
+            "Evita la exposición al sol en las horas centrales del día (de 12 a 17 horas) y, en general, evita exposiciones prolongadas o dormirte al sol.",
+            "Lleva ropa ligera que permita la transpiración, el principal mecanismo de refrigeración de nuestro cuerpo.",
+            "Si notas cansancio o mareo, retírate a un lugar fresco o ventilado y aflójate la ropa."
+        ],
+        "video": "https://www.youtube.com/shorts/2DiU6VPlAbM"
     },
     {
         "nombre": "Hipotermia",
@@ -209,8 +262,8 @@
         ],
         "recomendaciones": [
             "No utilices agua caliente, compresas calientes ni lámparas de calentamiento para calentar a la persona. El calor extremo puede dañar la piel o, lo que es peor, provocar latidos del corazón irregulares tan graves que pueden hacer que el corazón se detenga.",
-            "Vista ropa abrigada, de capas múltiples con buena protección para las manos y los pies (evite el uso de muñequeras, calcetines y zapatos estrechos).",
-            "Use protección de cabeza abrigada. Esto es particularmente importante ya que una cantidad de calor significante se pierde por la cabeza no protegida.",
+            "Vista ropa abrigada, de capas múltiples, con buena protección para las manos y los pies (evite el uso de muñequeras, calcetines y zapatos estrechos).",
+            "Use protección de cabeza abrigada. Esto es particularmente importante, ya que, una cantidad de calor significante se pierde por la cabeza no protegida.",
             "Si es posible, cámbiese ropa seca cada vez que se moje su ropa."
         ],
         "video": "https://www.youtube.com/watch?v=GRUREDhFsgo&ab_channel=ONsalus"
@@ -218,17 +271,25 @@
     {
         "nombre": "Quemaduras Importantes",
         "prioridad": 13,
-        "sintomas": "",
+        "sintomas": "Enrojecimiento de la piel, dolor constante, hinchazón, ampollas, destrucción extensa de la piel, irritación, aparición de costras, inflamación.",
         "tratamiento": [
-            "",
-            ""
+            "1. Llamar inmediatamente a los servicios de emergencia (911).",
+            "2. Aplicar agua en abundancia durante 15 o 20 minutos.",
+            "3. Cubrir la lesión con apósito estéril sin comprimir.",
+            "4. Retirar la ropa pero NO la ropa pegada",
+            "5. Retirar anillos, relojes, pulseras, etc."
         ],
         "imagenes": [
             "",
             ""
         ],
-        "recomendaciones": "",
-        "video": ""
+        "recomendaciones": [
+            "No apretar la zona afectada con nada.",
+            "No reventar las ampollas.",
+            "No dar de beber ni comer al accidentado, hasta que sea tratado.",
+            "No aplicar tratamientos tópicos: pomadas, aceites, ungüentos."
+        ],
+        "video": "https://www.youtube.com/watch?v=iqn1Lb8kcqg"
     },
     {
         "nombre": "Mordedura / Picaduras",
@@ -242,22 +303,51 @@
             "",
             ""
         ],
-        "recomendaciones": "",
+        "recomendaciones": [
+            "",
+            ""
+        ],
         "video": ""
     },
     {
-        "nombre": "Calambres / Esguinces",
+        "nombre": "Esguinces",
         "prioridad": 15,
-        "sintomas": "",
+        "sintomas": "Dolor intenso en la articulación, hinchazón en la zona afectada, imposibilidad de movimiento de la zona afectada.",
         "tratamiento": [
-            "",
-            ""
+            "1. Colocar compresas frías en la zona afectada.",
+            "2. Si la lesión es en el pie, se deberá vendar.",
+            "3. La localización del esguince debe de permanecer elevado.",
+            "4. Derivar a un médico para su oportuna atención."
         ],
         "imagenes": [
             "",
             ""
         ],
-        "recomendaciones": "",
-        "video": ""
+        "recomendaciones": [
+            "Evitar zapatos de taco alto y/o que provoquen inestabilidad en el pie.",
+            "Siempre realizar ejercicios de calentamiento antes de realizar alguna actividad física.",
+            "Evitar deportes y actividades para las cuales no se tenga el entrenamiento adecuado.",
+            "Mantener una musculatura robusta para proteger los ligamentos."
+        ],
+        "video": "https://www.youtube.com/watch?v=hfIQz9FaDls"
+    },
+    {
+        "nombre": "Calambres",
+        "prioridad": 16,
+        "sintomas": "Dolor intenso y localizado en un músculo, sensación de tener el músculo duro, palpitación y tensión muscular.",
+        "tratamiento": [
+            "1. Si se está realizando una actividad, es necesario interrumpirla.",
+            "2. Masajear el músculo afectado o apretarlo con fuerza.",
+            "3. Trata de estirar el músculo con las manos, relajarlos y continuar estirando."
+        ],
+        "imagenes": [
+            "",
+            ""
+        ],
+        "recomendaciones": [
+            "Es necesario elongar los músculos antes y después del ejercicio físico y antes de acostarse y después de levantarse de la cama.",
+            "Beber muchos líquidos."
+        ],
+        "video": "https://www.youtube.com/watch?v=_RYPtEz1atU"
     }
 ]
