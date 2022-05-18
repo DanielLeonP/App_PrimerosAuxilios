@@ -6,8 +6,10 @@
 
 3. Colocar los archivos del repositorio en el nuevo proyecto.
 
-4. Iniciar Metro Bundler de Expo CLI, dentro del directorio del proyecto inicializar Metro con "npm start" o "expo start".
+4. Correr el comando "npm install", para instalar todas las librerías de las que hace uso el proyecto.
 
-5. Ir a http://localhost:19002/.
+5. Iniciar Metro Bundler de Expo CLI, dentro del directorio del proyecto inicializar Metro con "npm start" o "expo start".
 
-6. Escanear el código QR con la aplicación de "Expo Go".
+6. Ir a http://localhost:19002/.
+
+7. Escanear el código QR con la aplicación de "Expo Go".
