@@ -2,352 +2,406 @@
     {
         "nombre": "Paro Cardiaco",
         "prioridad": 1,
-        "sintomas": "",
+        "sintomas": "Los síntomas del paro cardíaco repentino son inmediatos y drásticos, entre ellos: colapso súbito, falta de pulso, falta de respiración, pérdida del conocimiento.",
         "tratamiento": [
-            "",
-            ""
+            "1. Llamar inmediatamente a los servicios de emergencia (911).\n\n",
+            "2. Verifica rápidamente la respiración de la persona.\n\n",
+            "3. Si la persona no respira con normalidad, comienza con la reanimación cardio pulmonar:\n\n",
+            "a) Con la persona boca arriba, colocarse junto al cuello y con las palmas sobre el pecho.\n\n",
+            "b) Hacer presión sobre el pecho, con el peso de tu cuerpo, a una profundidad de 5 cm, hacer 5 repeticiones de 30 compresiones en un minuto, esperar a que el pecho retome su posición.\n\n",
+            "c) Después de 30 compresiones puedes oxigenar a la persona, primero, inclinar su cabeza y levantarle el mentón.\n\n",
+            "d) Aprieta las fosas nasales, y con tu boca cubre la boca de la persona, administra aire durante 1 a 2 segundos.\n\n",
+            "e) Repite el ciclo, hasta que lleguen los paramédicos.\n"
         ],
         "imagenes": [
-            "",
-            ""
+            "../images/Paro_Cardiaco/Paro_Cardiaco1.jpg"
         ],
         "recomendaciones": [
-            "",
-            ""
+            "Revisar el colesterol en la sangre frecuentemente.\n\n",
+            "Saber que esto puede estar presente por enfermedades familiares.\n\n",
+            "No se debe dejar pasar mas de una hora del ataque, de otra forma puede provocar la muerte."
         ],
-        "video": ""
+        "video": "https://youtu.be/dtn5yAKqeXU"
     },
     {
         "nombre": "Ataque al Corazón / Infarto",
         "prioridad": 2,
         "sintomas": "Dolor persistente, malestar o presión, constante o paulatina sobre el centro del pecho o sus alrededores, que dura de 3 a 5 minutos, después de este tiempo, la persona empieza a dejar de responder físicamente. Dificultad para respirar, palidez, mareos.",
         "tratamiento": [
-            "1. Llamar inmediatamente a los servicios de emergencia (911).",
-            "2. Acomodar a la persona en un lugar tranquilo y que respire profundamente.",
-            "3. Aflojar prendas que puedan estar causando presión.",
-            "4. Si la persona se encuentra inconsciente, prepárese para dar RCP:\na) Con la persona boca arriba, colocarse junto al cuello y con las palmas sobre el pecho.",
-            "b) Hacer presión sobre el pecho, con el peso de tu cuerpo, a una profundidad de 5 cm, hacer 5 repeticiones de 30 compresiones en un minuto, esperar a que el pecho retome su posición.",
-            "c) Después de 30 compresiones puedes oxigenar a la persona, primero, inclinar su cabeza y levantarle el mentón.",
-            "d) Aprieta las fosas nasales, y con tu boca cubre la boca de la persona, administra aire durante 1 a 2 segundos.",
-            "e) Repite el ciclo, hasta que lleguen los paramédicos.",
-            "5. Si la persona no se encuentra inconsciente o recobro la conciencia, dar a tomar, una tableta de aspirina."
+            "1. Llamar inmediatamente a los servicios de emergencia (911).\n\n",
+            "2. Acomodar a la persona en un lugar tranquilo y que respire profundamente.\n\n",
+            "3. Aflojar prendas que puedan estar causando presión.\n\n",
+            "4. Si la persona se encuentra inconsciente, prepárese para dar RCP:\n\n",
+            "a) Con la persona boca arriba, colocarse junto al cuello y con las palmas sobre el pecho.\n\n",
+            "b) Hacer presión sobre el pecho, con el peso de tu cuerpo, a una profundidad de 5 cm, hacer 5 repeticiones de 30 compresiones en un minuto, esperar a que el pecho retome su posición.\n\n",
+            "c) Después de 30 compresiones puedes oxigenar a la persona, primero, inclinar su cabeza y levantarle el mentón.\n\n",
+            "d) Aprieta las fosas nasales, y con tu boca cubre la boca de la persona, administra aire durante 1 a 2 segundos.\n\n",
+            "e) Repite el ciclo, hasta que lleguen los paramédicos.\n\n",
+            "5. Si la persona no se encuentra consciente o recobro la conciencia, dar a tomar, una tableta de aspirina.\n"
         ],
         "imagenes": [
-            "",
-            ""
+            "../images/Ataque_Corazon_Infarto/Ataque_Corazon_Infarto1.jpg",
+            "../images/Ataque_Corazon_Infarto/Ataque_Corazon_Infarto2.png",
+            "../images/Ataque_Corazon_Infarto/Ataque_Corazon_Infarto3.jpg",
+            "../images/Ataque_Corazon_Infarto/Ataque_Corazon_Infarto4.jpg",
+            "../images/Ataque_Corazon_Infarto/Ataque_Corazon_Infarto5.jpg",
+            "../images/Ataque_Corazon_Infarto/Ataque_Corazon_Infarto6.jpg"
         ],
         "recomendaciones": [
-            "No trasladar a la persona en automóvil hacia el hospital, puede empeorar la situación, a no ser que no exista otra opción.",
-            "Mantener la calma.",
-            "Conocer si la persona es alérgica a la aspirina.",
+            "No trasladar a la persona en automóvil hacia el hospital, puede empeorar la situación, a no ser que no exista otra opción.\n\n",
+            "Mantener la calma.\n\n",
+            "Conocer si la persona es alérgica a la aspirina.\n\n",
             "No tardar más de 2 horas en atender la emergencia, porque, la persona podría sufrir daño cerebral o un paro cardiaco."
         ],
-        "video": "https://www.youtube.com/watch?v=dtn5yAKqeXU&ab_channel=SUATEmergencia"
+        "video": "https://youtu.be/gNYKOuZhoBk"
     },
     {
         "nombre": "Ataque Convulsivo / Convulsión",
         "prioridad": 3,
         "sintomas": "Rigidez en el cuerpo y movimientos involuntarios y espasmódicos, babeo o generación de espuma por la boca, gruñidos, movimientos rápidos de los ojos, inclusive perdida de control de su cuerpo.",
         "tratamiento": [
-            "1. Quitar objetos con los que podría lastimarse la persona.",
-            "2. Si la persona esta tirada, posicionarla de lado, en caso de estar sentada, colocarla recostada sobre en el piso.",
-            "3. Llamar a las unidades de emergencia (911).",
-            "4. No detener los movimientos ni introducir nada en la boca.",
-            "5. Permitir que el aire pueda entrar al cuerpo de la persona, no obstruir ningún tipo de recepción de aire.",
-            "6. Después de la crisis colocar a la persona en posición lateral de seguridad."
+            "1. Quitar objetos con los que podría lastimarse la persona.\n\n",
+            "2. Si la persona esta tirada, posicionarla de lado, en caso de estar sentada, colocarla recostada sobre en el piso.\n\n",
+            "3. Llamar a las unidades de emergencia (911).\n\n",
+            "4. No detener los movimientos ni introducir nada en la boca.\n\n",
+            "5. Permitir que el aire pueda entrar al cuerpo de la persona, no obstruir ningún tipo de recepción de aire.\n\n",
+            "6. Después de la crisis colocar a la persona en posición lateral de seguridad.\n"
         ],
         "imagenes": [
-            "",
-            ""
+            "../images/Ataque_Convulsivo/Ataque_Convulsivo1.png",
+            "../images/Ataque_Convulsivo/Ataque_Convulsivo2.png",
+            "../images/Ataque_Convulsivo/Ataque_Convulsivo3.jpg",
+            "../images/Ataque_Convulsivo/Ataque_Convulsivo4.png",
+            "../images/Ataque_Convulsivo/Ataque_Convulsivo5.png"
         ],
         "recomendaciones": [
-            "Tomar sus medicamentos.",
-            "Dormir lo suficiente.",
-            "Disminuir el estrés.",
+            "Tomar sus medicamentos.\n\n",
+            "Dormir lo suficiente.\n\n",
+            "Disminuir el estrés.\n\n",
             "No observar luces estroboscópicas."
         ],
-        "video": "https://www.youtube.com/watch?v=sIlfgtHpf-0"
+        "video": "https://youtu.be/sIlfgtHpf-0"
     },
     {
         "nombre": "Atragantamiento / Asfixia",
         "prioridad": 4,
         "sintomas": "Obstrucción de las vías respiratorias, ambiente tóxico y/o falta de oxígeno, función pulmonar deficiente, traumatismos torácicos, lesiones cerebrales.",
         "tratamiento": [
-            "Es necesario hacer uso de la maniobra de Heimlich. Consiste en:",
-            "1. Colocarse detrás de la persona, de manera que su cuerpo quede de lado en relación con la espalda del atragantado. Sus pies deben estar abiertos aprox. al ancho de sus hombros y se coloca uno en medio de los de la persona. Lo anterior para tener más estabilidad corporal.",
-            "2. Rodear con sus brazos la cintura del atragantado. Con una mano se localizará el ombligo; dos dedos arriba de este se colocarán el puño, procurando que el dedo gordo quede arriba de la línea media del abdomen por arriba del ombligo.",
-            "3. Apretar el puño con la otra mano, presionando fuertemente hacia el abdomen de adentro y hacia arriba. Se debe de repetir esta acción hasta que la persona arroje el objeto que está obstruyendo su vía área.",
-            "4. Llamar inmediatamente a los servicios de emergencia (911), para asegurar que nada siga obstruido."
+            "Es necesario hacer uso de la maniobra de Heimlich. Consiste en:\n\n",
+            "1. Colocarse detrás de la persona, de manera que su cuerpo quede de lado en relación con la espalda del atragantado. Sus pies deben estar abiertos aprox. al ancho de sus hombros y se coloca uno en medio de los de la persona. Lo anterior para tener más estabilidad corporal.\n\n",
+            "2. Rodear con sus brazos la cintura del atragantado. Con una mano se localizará el ombligo; dos dedos arriba de este se colocarán el puño, procurando que el dedo gordo quede arriba de la línea media del abdomen por arriba del ombligo.\n\n",
+            "3. Apretar el puño con la otra mano, presionando fuertemente hacia el abdomen de adentro y hacia arriba. Se debe de repetir esta acción hasta que la persona arroje el objeto que está obstruyendo su vía área.\n\n",
+            "4. Llamar inmediatamente a los servicios de emergencia (911), para asegurar que nada siga obstruido.\n"
         ],
         "imagenes": [
-            "",
-            ""
+            "../images/Atragantamiento_Asfixia/Atragantamiento_Asfixia1.jpg",
+            "../images/Atragantamiento_Asfixia/Atragantamiento_Asfixia2.jpg",
+            "../images/Atragantamiento_Asfixia/Atragantamiento_Asfixia3.jpg"
         ],
         "recomendaciones": [
-            "Animar a toser.",
+            "Animar a toser.\n\n",
             "Continuar valorando si se deteriora o si revierte la obstrucción."
         ],
-        "video": "https://www.youtube.com/watch?v=vBvMbXjCA14&ab_channel=CODEMMadrid"
+        "video": "https://youtu.be/vBvMbXjCA14?t=25"
     },
     {
         "nombre": "Choque Eléctrico / Electrocución",
         "prioridad": 5,
         "sintomas": "Quemaduras, dolor constante o palpitante en todo el cuerpo, incapacidad de moverse o responder a cualquier acción, la persona puede estar inconsciente, desmayo, hormigueo, ataques espasmódicos.",
         "tratamiento": [
-            "1. NO tocar a la persona que está sufriendo el choque o lo acaba de sufrir, esto podría provocarle un choque a usted también.",
-            "2. Buscar la fuente de poder que está generando la electricidad del choque, y cortarla.",
-            "3. En caso de no poder alcanzar la fuente de poder o no encontrarla, alejar o separar a la persona de la fuente de electrocución con uno de los siguientes materiales: madera no seca, vidrio, plástico grueso, cerámica, cuero, siempre vigilar que no entres en contacto con la persona afectada y de ser posible no estés en contacto directo con el suelo.",
-            "4. Una vez separado, llamar a los paramédicos (911).",
-            "5. Evitar que la persona afectada se acerque a zonas con alta o baja corriente durante su traslado al hospital."
+            "1. NO tocar a la persona que está sufriendo el choque o lo acaba de sufrir, esto podría provocarle un choque a usted también.\n\n",
+            "2. Buscar la fuente de poder que está generando la electricidad del choque, y cortarla.\n\n",
+            "3. En caso de no poder alcanzar la fuente de poder o no encontrarla, alejar o separar a la persona de la fuente de electrocución con uno de los siguientes materiales: madera no seca, vidrio, plástico grueso, cerámica, cuero, siempre vigilar que no entres en contacto con la persona afectada y de ser posible no estés en contacto directo con el suelo.\n\n",
+            "4. Una vez separado, llamar a los paramédicos (911).\n\n",
+            "5. Evitar que la persona afectada se acerque a zonas con alta o baja corriente durante su traslado al hospital.\n"
         ],
         "imagenes": [
-            "",
-            ""
+            "../images/Choque_Electrico/Choque_Electrico1.jpg",
+            "../images/Choque_Electrico/Choque_Electrico2.jpg",
+            "../images/Choque_Electrico/Choque_Electrico3.jpg"
         ],
         "recomendaciones": [
             "Instalar interruptores automáticos en el hogar.",
-            "Desconectar la fuente eléctrica en caso de hacer cualquier trabajo eléctrico.",
-            "No conectar dispositivos húmedos o mojados la red eléctrica.",
-            "No jugar con herramientas o materiales eléctricas cerca de zonas de alto voltaje.",
+            "Desconectar la fuente eléctrica en caso de hacer cualquier trabajo eléctrico.\n\n",
+            "No conectar dispositivos húmedos o mojados la red eléctrica.\n\n",
+            "No jugar con herramientas o materiales eléctricas cerca de zonas de alto voltaje.\n\n",
             "Utilizar zapatos de caucho, para trabajos eléctricos."
         ],
-        "video": "https://www.youtube.com/watch?v=cdEGIBokVXU&ab_channel=ORGANIZACI%C3%93NIBEROAMERICANADESEGURIDADSOCIAL"
+        "video": "https://youtu.be/cdEGIBokVXU"
     },
     {
         "nombre": "Cortaduras / Hemorragias",
         "prioridad": 6,
-        "sintomas": "",
+        "sintomas": "Dolor, hipersensibilidad, equimosis e hinchazón, son signos que pueden significar que una fractura cerrada está sangrando, fracturas costales, equimosis sobre la parte inferior del tórax o un abdomen rígido, distendido, son signos y síntomas que pueden indicar un bazo o hígado lacerado, en general, desangrado paulatino o constante.",
         "tratamiento": [
-            "",
-            ""
+            "1. Llamar inmediatamente a los servicios de emergencia (911).\n\n",
+            "2. En caso de una hemorragia externa:\n\n",
+            "a) Acuesta a la persona herida. La cabeza debe estar más abajo que el tronco o las piernas, facilitando que el flujo sanguíneo se dirija hacia el cerebro.\n\n",
+            "b) Si la herida está en alguna de las extremidades, deberás elevarla para que disminuya el flujo.\n\n",
+            "c) Limpia con una gasa estéril y suero fisiológico la herida.\n\n",
+            "d) Aplica presión directamente sobre la herida, con un paño limpio y hasta detener el sangrado. Cuando se detenga, envuelve la herida con un vendaje compresivo.\n\n",
+            "e) Si el sangrado no para, comprueba el pulso y ejerce una compresión firme y constante con los dedos.\n\n",
+            "3. En caso de una hemorragia interna:\n\n",
+            "a) Acostar a la persona herida y elevar sus piernas.\n\n",
+            "b) Comprobar el pulso y la respiración y cubrirlo con una manta.\n\n",
+            "c) En ambos casos, trasladar a la persona a un centro médico.\n"
         ],
         "imagenes": [
-            "",
-            ""
+            "../images/Cortaduras_Hemorragias/Cortaduras_Hemorragias1.jpg",
+            "../images/Cortaduras_Hemorragias/Cortaduras_Hemorragias2.jpg",
+            "../images/Cortaduras_Hemorragias/Cortaduras_Hemorragias3.jpg"
         ],
         "recomendaciones": [
-            "",
-            ""
+            "No jugar con objetos punzocortantes.\n\n",
+            "Si el objeto que esta causando la hemorragia sigue encajado, no retirarlo."
         ],
-        "video": ""
+        "video": "https://youtu.be/k0lWfBm1w2I"
     },
     {
         "nombre": "Ataque de Asma",
         "prioridad": 7,
         "sintomas": "Dificultad para respirar, pulso acelerado, sensación de opresión en el pecho, ansiedad.",
         "tratamiento": [
-            "1. Si es un ataque agudo, solicitar ayuda médica de inmediato.",
-            "2. Tranquilizar a la persona afectada.",
-            "3. Solicitarle que se siente.",
-            "4. Utilizar el broncodilatador/inhalador para aminorar los síntomas.",
-            "5. En caso de no contar con él, pedir a la persona que levante los brazos, apoyarlos en la pared y cabeza abajo."
+            "1. Si es un ataque agudo, solicitar ayuda médica de inmediato.\n\n",
+            "2. Tranquilizar a la persona afectada.\n\n",
+            "3. Solicitarle que se siente.\n\n",
+            "4. Utilizar el broncodilatador/inhalador para aminorar los síntomas.\n\n",
+            "5. En caso de no contar con él, pedir a la persona que levante los brazos, apoyarlos en la pared y cabeza abajo.\n"
         ],
         "imagenes": [
-            "",
-            ""
+            "../images/Ataque_Asma/Ataque_Asma1.jpg",
+            "../images/Ataque_Asma/Ataque_Asma2.png",
+            "../images/Ataque_Asma/Ataque_Asma3.jpg",
+            "../images/Ataque_Asma/Ataque_Asma4.png"
         ],
         "recomendaciones": [
-            "Tómate los medicamentos del asma según las indicaciones de tu médico.",
-            "Evitar el humo del tabaco.",
-            "Evitar ambientes contaminados.",
-            "Realizar solo el ejercicio indicado por su médico.",
+            "Tómate los medicamentos del asma según las indicaciones de tu médico.\n\n",
+            "Evitar el humo del tabaco.\n\n",
+            "Evitar ambientes contaminados.\n\n",
+            "Realizar solo el ejercicio indicado por su médico.\n\n",
             "Mantener la casa libre de polvo."
         ],
-        "video": "https://www.youtube.com/watch?v=Y_eNCrEEQ7M"
+        "video": "https://youtu.be/Y_eNCrEEQ7M"
     },
     {
         "nombre": "Reacciones Alérgicas",
         "prioridad": 8,
         "sintomas": "Ardor y comezón en los ojos y/o nariz, salpullido, estornudos, tos, náuseas, nariz congestionada, diarrea, dificultad para respirar, garganta cerrada.",
         "tratamiento": [
-            "1. Llamar inmediatamente a los servicios de emergencia (911).",
-            "2. Verificar signos vitales.",
-            "3. No administrar medicamentos sin la indicación previa.",
-            "4. En la medida de las posibilidades se debe de identificar la fuente de la alergia y se debe de alejar de la misma.",
-            "5. Si la reacción alérgica es severa se observará: piel fría y húmeda, color pálido, latidos de corazón débiles o rápidos, dificultad para respirar y pérdida de conocimiento."
+            "1. Llamar inmediatamente a los servicios de emergencia (911).\n\n",
+            "2. Verificar signos vitales.\n\n",
+            "3. No administrar medicamentos sin la indicación previa.\n\n",
+            "4. En la medida de las posibilidades se debe de identificar la fuente de la alergia y se debe de alejar de la misma.\n\n",
+            "5. Si la reacción alérgica es severa se observará: piel fría y húmeda, color pálido, latidos de corazón débiles o rápidos, dificultad para respirar y pérdida de conocimiento.\n\n"
         ],
         "imagenes": [
-            "",
-            ""
+            "../images/Reacciones_Alergicas/Reacciones_Alergicas1.jpg",
+            "../images/Reacciones_Alergicas/Reacciones_Alergicas2.jpg",
+            "../images/Reacciones_Alergicas/Reacciones_Alergicas3.jpg",
+            "../images/Reacciones_Alergicas/Reacciones_Alergicas4.jpg"
         ],
         "recomendaciones": [
-            "Algunas personas saben que son alérgicas a ciertas sustancias o a picaduras de insectos. Es posible que hayan aprendido a evitar estas cosas y pueden llevar medicamentos para revertir la reacción alérgica.",
-            "Las personas que tienen reacciones alérgicas graves pueden usar una tarjeta, brazalete o collar de identificación médica."
+            "Algunas personas saben que son alérgicas a ciertas sustancias o a picaduras de insectos. Es posible que hayan aprendido a evitar estas cosas y pueden llevar medicamentos para revertir la reacción alérgica.\n\n",
+            "Las personas que tienen reacciones alérgicas graves pueden usar una tarjeta, brazalete o collar de identificación médica.\n\n"
         ],
-        "video": "https://www.youtube.com/watch?v=W6WPWuIdaEo&ab_channel=AlergiasMedicinaTV"
+        "video": "https://youtu.be/W6WPWuIdaEo"
     },
     {
         "nombre": "Intoxicación / Envenenamiento",
         "prioridad": 9,
         "sintomas": "Malestar, dolor de cabeza, mareos, náuseas o vómitos. Ardor y/o dolor de garganta, tos repentina, dificultad para tragar o respirar, babeo, falta de fuerzas, somnolencia repentina, confusión o disminución de la capacidad mental, convulsiones, desvanecimiento, ronchas repentinas, inflamación, cambio de color de la piel, de los labios, debilidad, irritabilidad, vértigo, fiebre.",
         "tratamiento": [
-            "1. Llamar inmediatamente a los paramédicos (911).",
-            "2. Dependiendo de como fue la intoxicación/envenenamiento se debe aplicar una de las siguientes medidas:",
-            "Si el contacto fue por vía oral:\nNo hacer vomitar a la persona a menos que se le sea indicado por un profesional, reconfortar a la persona y/o llevarla a un centro de salud.",
-            "Si el contacto fue por la piel:\nQuitar la ropa y lavar, masajear o tallar con abundante agua la piel durante 15 a 20 minutos.",
-            "Si el contacto fue vía inhalatoria:\nTrasladar a la persona a un lugar bien ventilado y dejarla reposar.",
-            "Si el contacto fue en el ojo:\nFrotar suavemente un paño mojado a temperatura ambiente, durante 15 a 20 minutos, después dejar reposar el ojo."
+            "1. Llamar inmediatamente a los paramédicos (911).\n\n",
+            "2. Dependiendo de como fue la intoxicación/envenenamiento se debe aplicar una de las siguientes medidas:\n\n",
+            "Si el contacto fue por vía oral:\n\nNo hacer vomitar a la persona a menos que se le sea indicado por un profesional, reconfortar a la persona y/o llevarla a un centro de salud.\n\n",
+            "Si el contacto fue por la piel:\n\nQuitar la ropa y lavar, masajear o tallar con abundante agua la piel durante 15 a 20 minutos.\n\n",
+            "Si el contacto fue vía inhalatoria:\n\nTrasladar a la persona a un lugar bien ventilado y dejarla reposar.\n\n",
+            "Si el contacto fue en el ojo:\n\nFrotar suavemente un paño mojado a temperatura ambiente, durante 15 a 20 minutos, después dejar reposar el ojo.\n"
         ],
         "imagenes": [
-            "",
-            ""
+            "../images/Intoxicacion_Envenenamiento/Intoxicacion_Envenenamiento1.jpg",
+            "../images/Intoxicacion_Envenenamiento/Intoxicacion_Envenenamiento2.jpg",
+            "../images/Intoxicacion_Envenenamiento/Intoxicacion_Envenenamiento3.jpg",
+            "../images/Intoxicacion_Envenenamiento/Intoxicacion_Envenenamiento4.jpg"
         ],
         "recomendaciones": [
-            "Si una comida o medicamento huele mal, no consumirlo.",
-            "No mezclar productos químicos sin previo conocimiento.",
-            "No acampar en zonas con hierba o plantas desconocidas, mejor en tierra o rocas.",
-            "No consumir cualquier planta que se pueda encontrar en la naturaleza, sin estar seguro de cuál es.",
+            "Si una comida o medicamento huele mal, no consumirlo.\n\n",
+            "No mezclar productos químicos sin previo conocimiento.\n\n",
+            "No acampar en zonas con hierba o plantas desconocidas, mejor en tierra o rocas.\n\n",
+            "No consumir cualquier planta que se pueda encontrar en la naturaleza, sin estar seguro de cuál es.\n\n",
             "Mantener siempre ventilado el hogar."
         ],
-        "video": "https://www.youtube.com/watch?v=fQC6yHfCkYQ&ab_channel=SikanaES"
+        "video": "https://youtu.be/fQC6yHfCkYQ"
     },
     {
         "nombre": "Fracturas Importantes",
         "prioridad": 10,
-        "sintomas": "",
+        "sintomas": "Dolor intenso, extremidad que se ve fuera de lugar, hinchazón, hematomas o dolor alrededor de la herida, problemas al mover la extremidad, huesos salidos o rotos, sonidos rasposos al mover la extremidad.",
         "tratamiento": [
-            "",
-            ""
+            "1. Llamar inmediatamente a los paramédicos (911).\n\n",
+            "2. No muevas a la persona, excepto si es necesario para evitar más lesiones.\n\n",
+            "3. Inmoviliza la zona lesionada.\n\n",
+            "4. No intentes volver a alinear el hueso ni empujes hacia adentro el hueso que se haya salido.\n\n",
+            "5. Aplicar hielo para disminuir el dolor y la inflamación.\n"
         ],
         "imagenes": [
-            "",
-            ""
+            "../images/Fracturas_Importantes/Fracturas_Importantes1.jpg",
+            "../images/Fracturas_Importantes/Fracturas_Importantes2.jpg",
+            "../images/Fracturas_Importantes/Fracturas_Importantes3.jpg"
         ],
         "recomendaciones": [
-            "",
-            ""
+            "Revisar que no existan otras lesiones.\n\n",
+            "Al practicar deportes o realizar actividades con riesgo de caída, utilizar indumentaria y accesorios apropiados. Por ejemplo: cascos, coderas, rodilleras, etcétera."
         ],
-        "video": ""
+        "video": "https://youtu.be/IxFpbOI971Q"
     },
     {
         "nombre": "Golpe de Calor / Deshidratación",
         "prioridad": 11,
         "sintomas": "Labios secos, dolor de cabeza, adormecimiento, calambres, mucha sed, piel seca, arrugada y ausencia de sudoración.",
         "tratamiento": [
-            "1. La persona debe permanecer en reposo en un ambiente tranquilo.",
-            "2. Administrar electrolitos o agua con azúcar con un poco de sal.",
-            "3. Realizar revisión general de signos vitales.",
-            "4. En caso de que el malestar continúe derivar a un médico."
+            "1. La persona debe permanecer en reposo en un ambiente tranquilo.\n\n",
+            "2. Administrar electrolitos o agua con azúcar con un poco de sal.\n\n",
+            "3. Realizar revisión general de signos vitales.\n\n",
+            "4. En caso de que el malestar continúe derivar a un médico.\n"
         ],
         "imagenes": [
-            "",
-            ""
+            "../images/Golpe_Calor_Deshidratacion/Golpe_Calor_Deshidratacion1.jpg",
+            "../images/Golpe_Calor_Deshidratacion/Golpe_Calor_Deshidratacion2.png",
+            "../images/Golpe_Calor_Deshidratacion/Golpe_Calor_Deshidratacion3.jpg",
+            "../images/Golpe_Calor_Deshidratacion/Golpe_Calor_Deshidratacion4.png"
         ],
         "recomendaciones": [
-            "Es importante beber líquidos al estar realizando actividades intensas y prolongadas.",
-            "Evita la exposición al sol en las horas centrales del día (de 12 a 17 horas) y, en general, evita exposiciones prolongadas o dormirte al sol.",
-            "Lleva ropa ligera que permita la transpiración, el principal mecanismo de refrigeración de nuestro cuerpo.",
+            "Es importante beber líquidos al estar realizando actividades intensas y prolongadas.\n\n",
+            "Evita la exposición al sol en las horas centrales del día (de 12 a 17 horas) y, en general, evita exposiciones prolongadas o dormirte al sol.\n\n",
+            "Lleva ropa ligera que permita la transpiración, el principal mecanismo de refrigeración de nuestro cuerpo.\n\n",
             "Si notas cansancio o mareo, retírate a un lugar fresco o ventilado y aflójate la ropa."
         ],
-        "video": "https://www.youtube.com/shorts/2DiU6VPlAbM"
+        "video": "https://youtu.be/2DiU6VPlAbM"
     },
     {
         "nombre": "Hipotermia",
         "prioridad": 12,
         "sintomas": "Escalofríos, hablar arrastrando las palabras o balbuceo, respiración lenta y superficial, pulso débil, torpeza o falta de coordinación, somnolencia o muy poca energía, desorientación o pérdida de memoria, pérdida del conocimiento y piel de color rojo brillante y fría (en bebés).",
         "tratamiento": [
-            "1. Llamar inmediatamente a los servicios de emergencia (911).",
-            "2. Cuando estés ayudando a una persona con hipotermia, trátala con cuidado. Limita los movimientos solo a aquellos que sean necesarios. No le hagas masajes a la persona ni la frotes. Los movimientos excesivos, enérgicos o bruscos pueden causar un paro cardíaco.",
-            "3. Aleja a la persona del frío. Colócala en un sitio seco y cálido si es posible. Si no puedes alejarla, cúbrela del frío y del viento lo máximo posible.",
-            "4. Si la persona tiene la ropa mojada, quítasela.",
-            "5. Cubre a la persona con mantas. Utiliza capas de mantas o abrigos secos para calentar a la persona. Cúbrele la cabeza y solo déjale la cara al descubierto.",
-            "6. Aísla el cuerpo de la persona del suelo frío. Si estás afuera, coloca a la persona boca arriba sobre una manta u otra superficie cálida.",
-            "7. Controla su respiración. Una persona con hipotermia grave puede parecer inconsciente, sin signos aparentes de pulso o respiración.",
-            "8. Si la persona afectada está consciente y puede tragar, dale una bebida tibia, dulce, sin alcohol y sin cafeína para ayudarla a calentar el cuerpo.",
-            "9. Utiliza una compresa cálida de primeros auxilios (una bolsa de plástico rellena de líquido que se calienta cuando se aprieta) o una compresa provisional de agua tibia en una botella de plástico o una toalla calentada con secador. Aplica una compresa solo en el cuello, en la pared torácica o en la ingle.\nNo la coloques en los brazos ni en las piernas. El calor que se aplica en los brazos y las piernas obliga a que la sangre fría vuelva al corazón, los pulmones y el cerebro, lo que provoca que la temperatura corporal interna disminuya. Esto puede ser mortal."
+            "1. Llamar inmediatamente a los servicios de emergencia (911).\n\n",
+            "2. Cuando estés ayudando a una persona con hipotermia, trátala con cuidado. Limita los movimientos solo a aquellos que sean necesarios. No le hagas masajes a la persona ni la frotes. Los movimientos excesivos, enérgicos o bruscos pueden causar un paro cardíaco.\n\n",
+            "3. Aleja a la persona del frío. Colócala en un sitio seco y cálido si es posible. Si no puedes alejarla, cúbrela del frío y del viento lo máximo posible.\n\n",
+            "4. Si la persona tiene la ropa mojada, quítasela.\n\n",
+            "5. Cubre a la persona con mantas. Utiliza capas de mantas o abrigos secos para calentar a la persona. Cúbrele la cabeza y solo déjale la cara al descubierto.\n\n",
+            "6. Aísla el cuerpo de la persona del suelo frío. Si estás afuera, coloca a la persona boca arriba sobre una manta u otra superficie cálida.\n\n",
+            "7. Controla su respiración. Una persona con hipotermia grave puede parecer inconsciente, sin signos aparentes de pulso o respiración.\n\n",
+            "8. Si la persona afectada está consciente y puede tragar, dale una bebida tibia, dulce, sin alcohol y sin cafeína para ayudarla a calentar el cuerpo.\n\n",
+            "9. Utiliza una compresa cálida de primeros auxilios (una bolsa de plástico rellena de líquido que se calienta cuando se aprieta) o una compresa provisional de agua tibia en una botella de plástico o una toalla calentada con secador. Aplica una compresa solo en el cuello, en la pared torácica o en la ingle.\n\nNo la coloques en los brazos ni en las piernas. El calor que se aplica en los brazos y las piernas obliga a que la sangre fría vuelva al corazón, los pulmones y el cerebro, lo que provoca que la temperatura corporal interna disminuya. Esto puede ser mortal.\n"
         ],
         "imagenes": [
-            "",
-            ""
+            "../images/Hipotermia/Hipotermia1.jpg",
+            "../images/Hipotermia/Hipotermia2.jpg",
+            "../images/Hipotermia/Hipotermia3.jpg",
+            "../images/Hipotermia/Hipotermia4.jpg",
+            "../images/Hipotermia/Hipotermia5.jpg",
+            "../images/Hipotermia/Hipotermia6.jpg"
         ],
         "recomendaciones": [
-            "No utilices agua caliente, compresas calientes ni lámparas de calentamiento para calentar a la persona. El calor extremo puede dañar la piel o, lo que es peor, provocar latidos del corazón irregulares tan graves que pueden hacer que el corazón se detenga.",
-            "Vista ropa abrigada, de capas múltiples, con buena protección para las manos y los pies (evite el uso de muñequeras, calcetines y zapatos estrechos).",
-            "Use protección de cabeza abrigada. Esto es particularmente importante, ya que, una cantidad de calor significante se pierde por la cabeza no protegida.",
+            "No utilices agua caliente, compresas calientes ni lámparas de calentamiento para calentar a la persona. El calor extremo puede dañar la piel o, lo que es peor, provocar latidos del corazón irregulares tan graves que pueden hacer que el corazón se detenga.\n\n",
+            "Vista ropa abrigada, de capas múltiples, con buena protección para las manos y los pies (evite el uso de muñequeras, calcetines y zapatos estrechos).\n\n",
+            "Use protección de cabeza abrigada. Esto es particularmente importante, ya que, una cantidad de calor significante se pierde por la cabeza no protegida.\n\n",
             "Si es posible, cámbiese ropa seca cada vez que se moje su ropa."
         ],
-        "video": "https://www.youtube.com/watch?v=GRUREDhFsgo&ab_channel=ONsalus"
+        "video": "https://youtu.be/GRUREDhFsgo"
     },
     {
         "nombre": "Quemaduras Importantes",
         "prioridad": 13,
         "sintomas": "Enrojecimiento de la piel, dolor constante, hinchazón, ampollas, destrucción extensa de la piel, irritación, aparición de costras, inflamación.",
         "tratamiento": [
-            "1. Llamar inmediatamente a los servicios de emergencia (911).",
-            "2. Aplicar agua en abundancia durante 15 o 20 minutos.",
-            "3. Cubrir la lesión con apósito estéril sin comprimir.",
-            "4. Retirar la ropa pero NO la ropa pegada",
-            "5. Retirar anillos, relojes, pulseras, etc."
+            "1. Llamar inmediatamente a los servicios de emergencia (911).\n\n",
+            "2. Aplicar agua en abundancia durante 15 o 20 minutos.\n\n",
+            "3. Cubrir la lesión con apósito estéril sin comprimir.\n\n",
+            "4. Retirar la ropa pero NO la ropa pegada.\n\n",
+            "5. Retirar anillos, relojes, pulseras, etc.\n"
         ],
         "imagenes": [
-            "",
-            ""
+            "../images/Quemaduras_Importantes/Quemaduras_Importantes1.jpg",
+            "../images/Quemaduras_Importantes/Quemaduras_Importantes2.jpg",
+            "../images/Quemaduras_Importantes/Quemaduras_Importantes3.jpg",
+            "../images/Quemaduras_Importantes/Quemaduras_Importantes4.jpg"
         ],
         "recomendaciones": [
-            "No apretar la zona afectada con nada.",
-            "No reventar las ampollas.",
-            "No dar de beber ni comer al accidentado, hasta que sea tratado.",
+            "No apretar la zona afectada con nada.\n\n",
+            "No reventar las ampollas.\n\n",
+            "No dar de beber ni comer al accidentado, hasta que sea tratado.\n\n",
             "No aplicar tratamientos tópicos: pomadas, aceites, ungüentos."
         ],
-        "video": "https://www.youtube.com/watch?v=iqn1Lb8kcqg"
+        "video": "https://youtu.be/iqn1Lb8kcqg"
     },
     {
         "nombre": "Mordedura / Picaduras",
         "prioridad": 14,
-        "sintomas": "",
+        "sintomas": "Enrojecimiento de la zona, dolor local intenso. Son más dolorosas que peligrosas, piel caliente, picor, inflamación y posterior edema, malestar general, náuseas, cefaleas, en casos graves.",
         "tratamiento": [
-            "",
-            ""
+            "1. Llamar inmediatamente a los servicios de emergencia (911).\n\n",
+            "2. Limpiar la zona con agua y jabón.\n\n",
+            "3. Inmovilizar y elevar la extremidad afectada.\n\n",
+            "4. Aplicar frío local para disminuir la inflamación.\n\n",
+            "5. No realizar incisión en la zona de la picada.\n\n",
+            "6. Controlar las constantes vitales.\n\n",
+            "7. Trasladar a un centro sanitario en caso de reacciones graves.\n\n",
+            "8. Aplicar oxigenoterapia y RCP básica en casos extremos.\n"
         ],
         "imagenes": [
-            "",
-            ""
+            "../images/Mordedura_Picadura/Mordedura_Picadura1.jpg",
+            "../images/Mordedura_Picadura/Mordedura_Picadura2.jpg",
+            "../images/Mordedura_Picadura/Mordedura_Picadura3.jpg"
         ],
         "recomendaciones": [
-            "",
-            ""
+            "Revisar además de la mordida o picadura, si esta traia consigo alguna enfermedad.\n\n",
+            "En ambos casos retirar al agente del accidente, de la persona afectada."
         ],
-        "video": ""
+        "video": "https://youtu.be/AEHDznHGjlw"
     },
     {
         "nombre": "Esguinces",
         "prioridad": 15,
         "sintomas": "Dolor intenso en la articulación, hinchazón en la zona afectada, imposibilidad de movimiento de la zona afectada.",
         "tratamiento": [
-            "1. Colocar compresas frías en la zona afectada.",
-            "2. Si la lesión es en el pie, se deberá vendar.",
-            "3. La localización del esguince debe de permanecer elevado.",
-            "4. Derivar a un médico para su oportuna atención."
+            "1. Colocar compresas frías en la zona afectada.\n\n",
+            "2. Si la lesión es en el pie, se deberá vendar.\n\n",
+            "3. La localización del esguince debe de permanecer elevado.\n\n",
+            "4. Derivar a un médico para su oportuna atención.\n"
         ],
         "imagenes": [
-            "",
-            ""
+            "../images/Esguinces/Esguinces1.jpg",
+            "../images/Esguinces/Esguinces2.png",
+            "../images/Esguinces/Esguinces3.jpg",
+            "../images/Esguinces/Esguinces4.png"
         ],
         "recomendaciones": [
-            "Evitar zapatos de taco alto y/o que provoquen inestabilidad en el pie.",
-            "Siempre realizar ejercicios de calentamiento antes de realizar alguna actividad física.",
-            "Evitar deportes y actividades para las cuales no se tenga el entrenamiento adecuado.",
+            "Evitar zapatos de taco alto y/o que provoquen inestabilidad en el pie.\n\n",
+            "Siempre realizar ejercicios de calentamiento antes de realizar alguna actividad física.\n\n",
+            "Evitar deportes y actividades para las cuales no se tenga el entrenamiento adecuado.\n\n",
             "Mantener una musculatura robusta para proteger los ligamentos."
         ],
-        "video": "https://www.youtube.com/watch?v=hfIQz9FaDls"
+        "video": "https://youtu.be/hfIQz9FaDls"
     },
     {
         "nombre": "Calambres",
         "prioridad": 16,
         "sintomas": "Dolor intenso y localizado en un músculo, sensación de tener el músculo duro, palpitación y tensión muscular.",
         "tratamiento": [
-            "1. Si se está realizando una actividad, es necesario interrumpirla.",
-            "2. Masajear el músculo afectado o apretarlo con fuerza.",
-            "3. Trata de estirar el músculo con las manos, relajarlos y continuar estirando."
+            "1. Si se está realizando una actividad, es necesario interrumpirla.\n\n",
+            "2. Masajear el músculo afectado o apretarlo con fuerza.\n\n",
+            "3. Trata de estirar el músculo con las manos, relajarlos y continuar estirando.\n"
         ],
         "imagenes": [
-            "",
-            ""
+            "../images/Calambres/Calambres1.jpg",
+            "../images/Calambres/Calambres2.png",
+            "../images/Calambres/Calambres3.png"
         ],
         "recomendaciones": [
-            "Es necesario elongar los músculos antes y después del ejercicio físico y antes de acostarse y después de levantarse de la cama.",
+            "Es necesario elongar los músculos antes y después del ejercicio físico y antes de acostarse y después de levantarse de la cama.\n\n",
             "Beber muchos líquidos."
         ],
-        "video": "https://www.youtube.com/watch?v=_RYPtEz1atU"
+        "video": "https://youtu.be/_RYPtEz1atU"
     }
 ]

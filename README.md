@@ -8,10 +8,8 @@
 
 4. Correr el comando "npm install", para instalar todas las librerías de las que hace uso el proyecto.
 
-5. Correr el comando "expo eject", para crear las dependencias de Android.
+5. Iniciar Metro Bundler de Expo CLI, dentro del directorio del proyecto inicializar Metro con "npm start" o "expo start".
 
-6. Iniciar Metro Bundler de Expo CLI, dentro del directorio del proyecto inicializar Metro con "expo start --web".
+6. Ir a http://localhost:19002/.
 
-7. Ir a http://localhost:19002/.
-
-8. Escanear el código QR con la aplicación de "Expo Go".
+7. Escanear el código QR con la aplicación de "Expo Go".

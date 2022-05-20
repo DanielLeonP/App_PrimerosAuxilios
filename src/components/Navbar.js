@@ -1,10 +1,12 @@
 import * as React from 'react';
+import 'react-native-gesture-handler';
 import { NavigationContainer } from '@react-navigation/native';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import Ionicons from 'react-native-vector-icons/Ionicons';
 
 // Screens
-import HomePage from './HomePage';
+import { HomeScreenNavigation } from './CustomNavigation';
+// import HomePage from './HomePage';
 import MapPage from './MapPage';
 
 //Screen names
@@ -41,7 +43,7 @@ function Navbar() {
           labelStyle: { paddingBottom: 3 },
           style: { paddingTop: 20 }
         }} >
-        <Tab.Screen name={homeName} component={HomePage} options={{title: "Primeros Auxilios", headerStyle: { backgroundColor: '#05C46B',}, headerTintColor: '#fff', headerTitleAlign: "center", headerTitleStyle: {fontSize: 26}}} />
+        <Tab.Screen name={homeName} component={HomeScreenNavigation} options={{title: "Primeros Auxilios", headerStyle: { backgroundColor: '#05C46B', height: 0,}, headerTintColor: '#fff', headerTitleAlign: "center", headerTitleStyle: {fontSize: 1}}} />
         <Tab.Screen name={mapName} component={MapPage} options={{title: "Contacto Médico", headerStyle: { backgroundColor: '#05C46B',}, headerTintColor: '#fff', headerTitleAlign: "center", headerTitleStyle: {fontSize: 26}}} />
       </Tab.Navigator>
     </NavigationContainer>
