@@ -13,3 +13,5 @@
 6. Ir a http://localhost:19002/.
 
 7. Escanear el código QR con la aplicación de "Expo Go".
+
+8. eas build --profile production --platform android
