@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "primeros-auxilios-app",
+    "name": "Primeros Auxilios App",
     "slug": "primeros-auxilios-app",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -21,7 +21,7 @@
       "supportsTablet": true
     },
     "android": {
-      "package": "com.alegv.primerosauxiliosapp",
+      "package": "com.primerosauxiliosapp.primerosauxiliosapp",
       "versionCode": 1,
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
