@@ -1,7 +1,7 @@
 const express = require('express'); 
 
 const bodyParser = require('body-parser'); 
-const rutas = require('./routes/consulta');
+const rutas = require('./routes/rutas');
 
 var app = express(); 
 //const database = require("./database/database.js");
