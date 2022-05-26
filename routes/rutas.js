@@ -19,11 +19,11 @@ router.get('/', function (req, res, next) {
     db.end(function (err) { err ? console.log(err) : console.log('Conexión terminada.'); });
 });
 
-router.get('/Emergencia/:nombre', function (req, res, next) {
-    var nombre = req.params.nombre;;
+router.get('/Emergencia/:idEmergencia', function (req, res, next) {
+    var idEmergencia = req.params.idEmergencia;;
 
     db = database.conectar();
-    db.query("SELECT * FROM Emergencia WHERE nombre = '" + nombre + "';",
+    db.query("SELECT * FROM Emergencia WHERE id_emergencia = '" + idEmergencia + "';",
         function (err, emergencia, fields) {
             if (err) {
                 console.log(err)
