@@ -5,24 +5,24 @@ import styled from "styled-components";
 // Estilos del Navbar
 export const Nav = styled.nav`
   background: white;
-  height: 85px;
+  height: 13vh;
   display: flex;
-  justify-content: space-between;
   align-items: center;
-  padding: 0.2rem calc((100vw - 1000px) / 2);
+  box-sizing: border-box;
   box-shadow: 0px 0px 14px 2px #E0E0E0;
   z-index: 12;
 `;
 export const NavLogo = styled(Link)`
-  width: 20%;
+  width: 100%;
+  align-items: center;
   cursor: pointer;
   color: #000;
   font-size: 2rem;
   text-decoration: none;
-  margin-left: -110px;
-  margin-top: -5px;
   font-weight: 600;
   position: absolute;
+  display: flex;
+  margin-left:1.5%;
 `;
 export const NavLink = styled(Link)`
   position:absolute;
@@ -57,32 +57,7 @@ export const NavMenu = styled.div`
     display: none;
   }
 `;
-export const NavBtn = styled.nav`
-  display: flex;
-  align-items: center;
-  margin-right: 24px;
 
-  @media screen and (max-width: 768px) {
-    display: none;
-  }
-`;
-export const NavBtnLink = styled(Link)`
-  border-radius: 4px;
-  background: transparent;
-  padding: 10px 22px;
-  color: #fff;
-  outline: none;
-  border: 1px solid #fff;
-  cursor: pointer;
-  transition: all 0.2s ease-in-out;
-  text-decoration: none;
-  margin-left: 24px;
-  &:hover {
-    transition: all 0.2s ease-in-out;
-    background: #fff;
-    color: #808080;
-  }
-`;
 
 // Estilos de las Cards de emergencias
 export const Map = styled.div`
