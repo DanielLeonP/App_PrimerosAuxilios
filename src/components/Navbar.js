@@ -7,6 +7,8 @@ import {
     NavLogo, 
 } from './Styles';
 
+import ambulance from '../assets/ambulance.png';
+
 const Navbar = () => {
     return (
         <>
@@ -32,8 +34,8 @@ const Navbar = () => {
                     activestyle={{ color: 'black' }}>   
                         <button style={{width:"85px", height:"55px",
                         backgroundColor:"#05C46B", border:"none", borderRadius:"10px", color:"white"}}>
-                            <img src="https://cdn-icons-png.flaticon.com/512/3063/3063206.png"
-                            style={{width:"70%", cursor:"pointer"}}/>
+                            <img src={ambulance}
+                            style={{width:"50%", cursor:"pointer"}} alt="Ambulancia" />
                         </button>
                     </NavButton>
                 </NavMenu> 
