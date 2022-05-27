@@ -7,7 +7,6 @@ const HomePage = () => {
         display: 'flex',
         justifyContent: 'Right',
         alignItems: 'Right',
-        height: '100vh',
         color: '#000'
       }}
     >
