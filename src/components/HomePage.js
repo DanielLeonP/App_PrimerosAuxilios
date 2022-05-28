@@ -41,25 +41,21 @@ const HomePage = () => {
   })
 
   const newCards = newEmergencia.map( emergency => {
-    if(emergency.lenght == 0){
-      
-    }else{
-      return(
-        <Card>
-          <CardTitle>
-            <p>{emergency.nombre}</p>
-            <NavLink 
-              to={`/info/${emergency.id_emergencia}`}
-              activestyle={{ color:'black' }}>
-                <img src={next} style={{width:"30%", cursor:"pointer", marginLeft:"90%"}} alt="Next"  />
-            </NavLink>
-          </CardTitle>
-          <CardImage>
-            <img src={noImage} style={{width:"100%", height:"100%", borderBottomLeftRadius:"10px", borderBottomRightRadius:"10px"}} alt="Emergency" />
-          </CardImage>
-        </Card>
-      );
-    }
+    return(
+      <Card key={emergency.prioridad}>
+        <CardTitle>
+          <p style={{width:"100%"}}>{emergency.nombre}</p>
+          <NavLink 
+            to={`/info/${emergency.id_emergencia}`}
+            activestyle={{ color:'black' }}>
+              <img src={next} style={{width:"40%", cursor:"pointer", marginLeft:"90%"}} alt="Next"  />
+          </NavLink>
+        </CardTitle>
+        <CardImage>
+          <img src={noImage} style={{width:"100%", height:"100%", borderBottomLeftRadius:"10px", borderBottomRightRadius:"10px"}} alt="Emergency" />
+        </CardImage>
+      </Card>
+    );
   })
 
   return (
@@ -70,7 +66,7 @@ const HomePage = () => {
             <img src={search} style={{width:"50%", height:"100%"}} alt="Emergency" />
           </SearchIcon>
           <SearchText>
-            <input class="placeholder" type="text" placeholder='Buscar' name="Buscar" onChange={newText => setText(newText.target.value)} style={{width:"100%", height:"auto", background:"none", outline:"none", border:"none", fontSize:"1.5rem", color:"#fff", fontFamily:"'Poppins', sans-serif" }} />
+            <input className="placeholder" type="text" placeholder='Buscar' name="Buscar" onChange={newText => setText(newText.target.value)} style={{width:"100%", height:"auto", background:"none", outline:"none", border:"none", fontSize:"1.5rem", color:"#fff", fontFamily:"'Poppins', sans-serif" }} />
           </SearchText>
         </Search>
         <Cards>
