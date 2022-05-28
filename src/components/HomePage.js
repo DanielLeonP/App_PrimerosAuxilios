@@ -7,7 +7,8 @@ import {
   CardImage, 
   Search,
   SearchIcon,
-  SearchText
+  SearchText,
+  NavLink
 } from './Styles';
 import next from '../assets/next.png';
 import noImage from '../assets/noImage.jpg';
@@ -47,7 +48,11 @@ const HomePage = () => {
         <Card>
           <CardTitle>
             <p>{emergency.nombre}</p>
-            <img src={next} style={{width:"7%", cursor:"pointer"}} alt="Next" />
+            <NavLink 
+              to={`/info/${emergency.id_emergencia}`}
+              activestyle={{ color:'black' }}>
+                <img src={next} style={{width:"30%", cursor:"pointer", marginLeft:"90%"}} alt="Next"  />
+            </NavLink>
           </CardTitle>
           <CardImage>
             <img src={noImage} style={{width:"100%", height:"100%", borderBottomLeftRadius:"10px", borderBottomRightRadius:"10px"}} alt="Emergency" />

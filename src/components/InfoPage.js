@@ -1,20 +1,35 @@
+import React, {useEffect, useState} from 'react';
+import { useParams } from 'react-router-dom';
+import { 
+  SafeZone, TitleBar
+} from './Styles';
+
+
 const InfoPage = () => {
+  const{id} = useParams()
+  const [emergencias, setEmergencia] = useState([]);
+
+  useEffect(() => {
+    let fetchData = async() => {
+      let data = await fetch(`https://backendservicioscloud.azurewebsites.net/Emergencia/${id}`);
+      let final = await data.json();
+      setEmergencia(final)
+    }
+    fetchData()
+  }, [id])
+  
   return (
     <>
-      <SafeZone> 
-        <div
-        style={{
-          display: 'flex',
-          justifyContent: 'Right',
-          alignItems: 'Right',
-          height: '100vh',
-          color: '#000'
-        }}>
-          <h1>Todo lo que vayas a poner, en esta pag, va dentro de la safezone, si no, el navbar lo va a tapar</h1>
-        </div>
+      <SafeZone>
+          <TitleBar>
+          <p style={{background:"black"}}>{emergencias.emergencia[0].nombre}</p>
+          </TitleBar>
       </SafeZone>
     </>
   );
+  
 };
   
+
+
 export default InfoPage;
