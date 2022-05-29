@@ -131,6 +131,7 @@ export const Cards = styled.div`
   margin: 0 5%;
   @media (min-width: 600px) {
     grid-template-columns: repeat(2, 1fr);
+    font-size: small;
   }
   @media (min-width: 900px) {
     grid-template-columns: repeat(3, 1fr);
@@ -140,24 +141,34 @@ export const Card = styled.div`
   background-color: #f0f0f0;
   border-radius: 10px;
   color: white;
-  height: 80%;
+  height: 35.5vh;
+  margin-bottom: 15%
 `
 export const CardTitle = styled.div`
-  height: 24%;
+  width: 100%;
+  height: 7.5vh;
   background-color: #05C46B;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
   font-size: 1rem;
+  line-height: 120%;
   font-weight: 600;
   color: white;
   padding: 4% 6%;
   display: flex;
   box-sizing: border-box;
   justify-content: space-between;
+  &:hover {
+    background-color: #6B6B6B;
+  }
 `
 export const CardImage = styled.div`
-  height: 76%;
-  box-sizing: content-box;
+  background-color: #f0f0f0;
+  width: 99.5%;
+  height: 28vh;
+  box-sizing: border-box;
+  opacity: 0.7;
+  object-fit: contain;
 `
 export const Search = styled.div`
   width: 100%;
@@ -187,7 +198,7 @@ export const SearchText = styled.div`
   }
 `
 
-//informacion
+// Informacion Page
 export const Enfermedad = styled.div`
   width: 80%;
   height: 9vh;
@@ -219,23 +230,23 @@ export const Tratamiento = styled.div`
   display: table;
 `
 export const Recomendacion = styled.div`
-width: 78%;
-margin: 4% 10% 0 11.05%;
-line-height: 5vh;
-font-size: 1.4rem;
-color:black;
+  width: 78%;
+  margin: 8.5% 10% 0 11.05%;
+  line-height: 5vh;
+  font-size: 1.4rem;
+  color: black;
 `
 export const Video = styled.div`
-width: 78%;
-margin: 4% 10% 0 11.05%;
-line-height: 4vh;
-font-size: 1.4rem;
-color:black;
+  width: 78%;
+  margin: 4% 10% 0 11.05%;
+  line-height: 4vh;
+  font-size: 1.4rem;
+  color:  black;
 `
 export const Divisor = styled.div`
- border-left: 0.2px solid #05C46B;
- height:70.9%;
- left: 50%;
- margin-top:-2.7%;
- position: absolute;
+  border-left: 0.2px solid #05C46B;
+  height:70.9%;
+  left: 50%;
+  margin-top:-2.7%;
+  position: absolute;
 `

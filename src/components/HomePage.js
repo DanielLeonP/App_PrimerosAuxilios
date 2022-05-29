@@ -11,7 +11,6 @@ import {
   NavLink
 } from './Styles';
 import next from '../assets/next.png';
-import noImage from '../assets/noImage.jpg';
 import search from '../assets/search.png';
 
 const url = 'https://backendservicioscloud.azurewebsites.net/';
@@ -52,7 +51,7 @@ const HomePage = () => {
           </NavLink>
         </CardTitle>
         <CardImage>
-          <img src={noImage} style={{width:"100%", height:"100%", borderBottomLeftRadius:"10px", borderBottomRightRadius:"10px"}} alt="Emergency" />
+          <img src={emergency.iconoImagen} style={{width:"100%", height:"28vh", borderBottomLeftRadius:"10px", borderBottomRightRadius:"10px", objectFit:"fill", borderBottom:"1px solid #05C46B", borderLeft:"1px solid #05C46B", borderRight:"1px solid #05C46B"}} alt="Emergency" />
         </CardImage>
       </Card>
     );
