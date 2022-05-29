@@ -219,14 +219,14 @@ export const Sintoma = styled.div`
   margin: 3% 10% 0 11.05%;
   line-height: 4vh;
   font-size: 1.4rem;
-  color:black;
+  color: black;
 `
 export const Tratamiento = styled.div`
   width: 78%;
   margin: 1% 10% 0 11%;
   line-height: 4vh;
   font-size: 1.4rem;
-  color:black;
+  color: black;
   display: table;
 `
 export const Recomendacion = styled.div`
@@ -241,12 +241,12 @@ export const Video = styled.div`
   margin: 4% 10% 0 11.05%;
   line-height: 4vh;
   font-size: 1.4rem;
-  color:  black;
+  color: black;
 `
 export const Divisor = styled.div`
   border-left: 0.2px solid #05C46B;
-  height:70.9%;
+  height: 70.9%;
   left: 50%;
-  margin-top:-2.7%;
+  margin-top: -2.7%;
   position: absolute;
 `
