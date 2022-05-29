@@ -30,7 +30,7 @@ const Navbar = () => {
                         <p>Mapa</p>
                     </NavLink>
                     <NavButton 
-                    to="/" 
+                    to="/map" 
                     activestyle={{ color: 'black' }}>   
                         <button style={{width:"85px", height:"55px",
                         backgroundColor:"#05C46B", border:"none", borderRadius:"10px", color:"white"}}>

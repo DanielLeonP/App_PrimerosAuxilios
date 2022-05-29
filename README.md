@@ -23,4 +23,5 @@ Para ejecutarlo, se debe descargar NodeJS en su versión 14 o superior: https://
 
 4. Ir a http://localhost:3000/.
 
-El API se puede consultar en el siguiente recurso:  📱
+El API se puede consultar en el siguiente recurso: 📱
+- https://app-primeros-auxilios.herokuapp.com/

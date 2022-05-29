@@ -14,12 +14,12 @@ import {
 const InfoPage = () => {
   const {id} = useParams()
   const emergencyId = parseInt(id, 10)
-  let emergenciasBody = ''
   const [emergencias, setEmergencia] = useState('');
-
+  
   console.log(emergencyId)
   useEffect(() => {
     let fetchData = async() => {
+      let emergenciasBody;
       let data = await fetch(`https://backendservicioscloud.azurewebsites.net/Emergencia/${id}`);
       let final = await data.json();
 
@@ -70,7 +70,7 @@ const InfoPage = () => {
                   <Title>
                     <p style={{marginLeft:"-17.4%", fontWeight:"bold"}}>Video</p>
                   </Title>
-                  <iframe style={{marginLeft:"16%", marginTop:"-2%", paddingBottom:"8%", border:"none"}} width="67%" height="397vh" src={final.emergencia[0].video}></iframe>
+                  <iframe title={final.emergencia[0].nombre} style={{marginLeft:"16%", marginTop:"-2%", paddingBottom:"8%", border:"none"}} width="67%" height="397vh" src={final.emergencia[0].video}></iframe>
                 </Video>
               </div>
             )
@@ -131,7 +131,7 @@ const InfoPage = () => {
                   <Title>
                     <p style={{marginLeft:"-17.4%", fontWeight:"bold"}}>Video</p>
                   </Title>
-                  <iframe style={{marginLeft:"16%", marginTop:"-2%", paddingBottom:"8%", border:"none"}} width="67%" height="397vh" src={final.emergencia[0].video}></iframe>
+                  <iframe title={final.emergencia[0].nombre} style={{marginLeft:"16%", marginTop:"-2%", paddingBottom:"8%", border:"none"}} width="67%" height="397vh" src={final.emergencia[0].video}></iframe>
                 </Video>
               </div>
             )
@@ -188,7 +188,7 @@ const InfoPage = () => {
                   <Title>
                     <p style={{marginLeft:"-17.4%", fontWeight:"bold"}}>Video</p>
                   </Title>
-                  <iframe style={{marginLeft:"16.5%", marginTop:"-2%", paddingBottom:"8%", border:"none"}} width="65.6%" height="397vh" src={final.emergencia[0].video}></iframe>
+                  <iframe title={final.emergencia[0].nombre} style={{marginLeft:"16.5%", marginTop:"-2%", paddingBottom:"8%", border:"none"}} width="65.6%" height="397vh" src={final.emergencia[0].video}></iframe>
                 </Video>
               </div>
             )
@@ -240,7 +240,7 @@ const InfoPage = () => {
                   <Title>
                     <p style={{marginLeft:"-17.4%", fontWeight:"bold"}}>Video</p>
                   </Title>
-                  <iframe style={{marginLeft:"16%", marginTop:"-2%", paddingBottom:"8%", border:"none"}} width="67%" height="397vh" src={final.emergencia[0].video}></iframe>
+                  <iframe title={final.emergencia[0].nombre} style={{marginLeft:"16%", marginTop:"-2%", paddingBottom:"8%", border:"none"}} width="67%" height="397vh" src={final.emergencia[0].video}></iframe>
                 </Video>
               </div>
             )
@@ -295,7 +295,7 @@ const InfoPage = () => {
                   <Title>
                     <p style={{marginLeft:"-17.4%", fontWeight:"bold"}}>Video</p>
                   </Title>
-                  <iframe style={{marginLeft:"16%", marginTop:"-2%", paddingBottom:"8%", border:"none"}} width="67%" height="397vh" src={final.emergencia[0].video}></iframe>
+                  <iframe title={final.emergencia[0].nombre} style={{marginLeft:"16%", marginTop:"-2%", paddingBottom:"8%", border:"none"}} width="67%" height="397vh" src={final.emergencia[0].video}></iframe>
                 </Video>
               </div>
             )
@@ -353,7 +353,7 @@ const InfoPage = () => {
                   <Title>
                     <p style={{marginLeft:"-17.4%", fontWeight:"bold"}}>Video</p>
                   </Title>
-                  <iframe style={{marginLeft:"16%", marginTop:"-2%", paddingBottom:"8%", border:"none"}} width="67%" height="397vh" src={final.emergencia[0].video}></iframe>
+                  <iframe title={final.emergencia[0].nombre} style={{marginLeft:"16%", marginTop:"-2%", paddingBottom:"8%", border:"none"}} width="67%" height="397vh" src={final.emergencia[0].video}></iframe>
                 </Video>
               </div>
             )
@@ -409,7 +409,7 @@ const InfoPage = () => {
                   <Title>
                     <p style={{marginLeft:"-17.4%", fontWeight:"bold"}}>Video</p>
                   </Title>
-                  <iframe style={{marginLeft:"16%", marginTop:"-2%", paddingBottom:"8%", border:"none"}} width="67%" height="397vh" src={final.emergencia[0].video}></iframe>
+                  <iframe title={final.emergencia[0].nombre} style={{marginLeft:"16%", marginTop:"-2%", paddingBottom:"8%", border:"none"}} width="67%" height="397vh" src={final.emergencia[0].video}></iframe>
                 </Video>
               </div>
             )
@@ -462,7 +462,7 @@ const InfoPage = () => {
                   <Title>
                     <p style={{marginLeft:"-17.4%", fontWeight:"bold"}}>Video</p>
                   </Title>
-                  <iframe style={{marginLeft:"16%", marginTop:"-2%", paddingBottom:"8%", border:"none"}} width="67%" height="397vh" src={final.emergencia[0].video}></iframe>
+                  <iframe title={final.emergencia[0].nombre} style={{marginLeft:"16%", marginTop:"-2%", paddingBottom:"8%", border:"none"}} width="67%" height="397vh" src={final.emergencia[0].video}></iframe>
                 </Video>
               </div>
             )
@@ -519,7 +519,7 @@ const InfoPage = () => {
                   <Title>
                     <p style={{marginLeft:"-17.4%", fontWeight:"bold"}}>Video</p>
                   </Title>
-                  <iframe style={{marginLeft:"16%", marginTop:"-2%", paddingBottom:"8%", border:"none"}} width="67%" height="397vh" src={final.emergencia[0].video}></iframe>
+                  <iframe title={final.emergencia[0].nombre} style={{marginLeft:"16%", marginTop:"-2%", paddingBottom:"8%", border:"none"}} width="67%" height="397vh" src={final.emergencia[0].video}></iframe>
                 </Video>
               </div>
             )
@@ -571,7 +571,7 @@ const InfoPage = () => {
                   <Title>
                     <p style={{marginLeft:"-17.4%", fontWeight:"bold"}}>Video</p>
                   </Title>
-                  <iframe style={{marginLeft:"16%", marginTop:"-2%", paddingBottom:"8%", border:"none"}} width="67%" height="397vh" src={final.emergencia[0].video}></iframe>
+                  <iframe title={final.emergencia[0].nombre} style={{marginLeft:"16%", marginTop:"-2%", paddingBottom:"8%", border:"none"}} width="67%" height="397vh" src={final.emergencia[0].video}></iframe>
                 </Video>
               </div>
             )
@@ -625,7 +625,7 @@ const InfoPage = () => {
                   <Title>
                     <p style={{marginLeft:"-17.4%", fontWeight:"bold"}}>Video</p>
                   </Title>
-                  <iframe style={{marginLeft:"31%", marginTop:"-2%", paddingBottom:"8%", border:"none"}} width="37.7%" height="397vh" src={final.emergencia[0].video}></iframe>
+                  <iframe title={final.emergencia[0].nombre} style={{marginLeft:"31%", marginTop:"-2%", paddingBottom:"8%", border:"none"}} width="37.7%" height="397vh" src={final.emergencia[0].video}></iframe>
                 </Video>
               </div>
             )
@@ -686,7 +686,7 @@ const InfoPage = () => {
                   <Title>
                     <p style={{marginLeft:"-17.4%", fontWeight:"bold"}}>Video</p>
                   </Title>
-                  <iframe style={{marginLeft:"16%", marginTop:"-2%", paddingBottom:"8%", border:"none"}} width="67%" height="397vh" src={final.emergencia[0].video}></iframe>
+                  <iframe title={final.emergencia[0].nombre} style={{marginLeft:"16%", marginTop:"-2%", paddingBottom:"8%", border:"none"}} width="67%" height="397vh" src={final.emergencia[0].video}></iframe>
                 </Video>
               </div>
             )
@@ -741,7 +741,7 @@ const InfoPage = () => {
                   <Title>
                     <p style={{marginLeft:"-17.4%", fontWeight:"bold"}}>Video</p>
                   </Title>
-                  <iframe style={{marginLeft:"16%", marginTop:"-2%", paddingBottom:"8%", border:"none"}} width="67%" height="397vh" src={final.emergencia[0].video}></iframe>
+                  <iframe title={final.emergencia[0].nombre} style={{marginLeft:"16%", marginTop:"-2%", paddingBottom:"8%", border:"none"}} width="67%" height="397vh" src={final.emergencia[0].video}></iframe>
                 </Video>
               </div>
             )
@@ -796,7 +796,7 @@ const InfoPage = () => {
                   <Title>
                     <p style={{marginLeft:"-17.4%", fontWeight:"bold"}}>Video</p>
                   </Title>
-                  <iframe style={{marginLeft:"16%", marginTop:"-2%", paddingBottom:"8%", border:"none"}} width="67.1%" height="397vh" src={final.emergencia[0].video}></iframe>
+                  <iframe title={final.emergencia[0].nombre} style={{marginLeft:"16%", marginTop:"-2%", paddingBottom:"8%", border:"none"}} width="67.1%" height="397vh" src={final.emergencia[0].video}></iframe>
                 </Video>
               </div>
             )
@@ -850,7 +850,7 @@ const InfoPage = () => {
                   <Title>
                     <p style={{marginLeft:"-17.4%", fontWeight:"bold"}}>Video</p>
                   </Title>
-                  <iframe style={{marginLeft:"24.5%", marginTop:"-2%", paddingBottom:"8%", border:"none"}} width="50.3%" height="397vh" src={final.emergencia[0].video}></iframe>
+                  <iframe title={final.emergencia[0].nombre} style={{marginLeft:"24.5%", marginTop:"-2%", paddingBottom:"8%", border:"none"}} width="50.3%" height="397vh" src={final.emergencia[0].video}></iframe>
                 </Video>
               </div>
             )
@@ -900,14 +900,15 @@ const InfoPage = () => {
                   <Title>
                     <p style={{marginLeft:"-17.4%", fontWeight:"bold"}}>Video</p>
                   </Title>
-                  <iframe style={{marginLeft:"16%", marginTop:"-2%", paddingBottom:"8%", border:"none"}} width="67%" height="397vh" src={final.emergencia[0].video}></iframe>
+                  <iframe title={final.emergencia[0].nombre} style={{marginLeft:"16%", marginTop:"-2%", paddingBottom:"8%", border:"none"}} width="67%" height="397vh" src={final.emergencia[0].video}></iframe>
                 </Video>
               </div>
             )
           }
         setEmergencia(emergenciasBody)
         break;
-
+        default:
+        break;
       }
 
 
