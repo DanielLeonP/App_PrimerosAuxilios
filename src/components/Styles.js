@@ -186,3 +186,56 @@ export const SearchText = styled.div`
     color: #fff
   }
 `
+
+//informacion
+export const Enfermedad = styled.div`
+  width: 80%;
+  height: 9vh;
+  background-color: #05C46B;
+  box-sizing: border-box;
+  color: #fff;
+  line-height: 9vh;
+  font-weight: 1000;
+  font-size: 1.6rem;
+  padding: 0 1.5%;
+  border-radius: 10px;
+  margin: 4% 10% 0 10%;
+  font-family: 'Poppins', sans-serif;
+  letter-spacing: 1px;
+`
+export const Sintoma = styled.div`
+  width: 78%;
+  margin: 3% 10% 0 11.05%;
+  line-height: 4vh;
+  font-size: 1.4rem;
+  color:black;
+`
+export const Tratamiento = styled.div`
+  width: 78%;
+  margin: 0 10% 0 11%;
+  line-height: 4vh;
+  font-size: 1.4rem;
+  color:black;
+  display: table;
+`
+export const Recomendacion = styled.div`
+width: 78%;
+margin: 3% 10% 0 11.05%;
+line-height: 5vh;
+font-size: 1.4rem;
+color:black;
+`
+export const Video = styled.div`
+width: 78%;
+margin: 3% 10% 0 11.05%;
+line-height: 4vh;
+font-size: 1.4rem;
+color:black;
+`
+export const Divisor = styled.div`
+ border-left: 0.2px solid #05C46B;
+ height:70.9%;
+ left: 50%;
+ margin-top:-2.7%;
+ position: absolute;
+`
