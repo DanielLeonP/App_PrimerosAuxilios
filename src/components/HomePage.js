@@ -47,7 +47,7 @@ const HomePage = () => {
           <NavLink 
             to={`/info/${emergency.id_emergencia}`}
             activestyle={{ color:'black' }}>
-              <img src={next} style={{width:"40%", cursor:"pointer", marginLeft:"90%"}} alt="Next"  />
+              <img src={next} style={{width:"40%", cursor:"pointer", marginLeft:"90%"}} alt="Next" />
           </NavLink>
         </CardTitle>
         <CardImage>
