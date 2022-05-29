@@ -212,7 +212,7 @@ export const Sintoma = styled.div`
 `
 export const Tratamiento = styled.div`
   width: 78%;
-  margin: 0 10% 0 11%;
+  margin: 1% 10% 0 11%;
   line-height: 4vh;
   font-size: 1.4rem;
   color:black;
@@ -220,14 +220,14 @@ export const Tratamiento = styled.div`
 `
 export const Recomendacion = styled.div`
 width: 78%;
-margin: 3% 10% 0 11.05%;
+margin: 4% 10% 0 11.05%;
 line-height: 5vh;
 font-size: 1.4rem;
 color:black;
 `
 export const Video = styled.div`
 width: 78%;
-margin: 3% 10% 0 11.05%;
+margin: 4% 10% 0 11.05%;
 line-height: 4vh;
 font-size: 1.4rem;
 color:black;
