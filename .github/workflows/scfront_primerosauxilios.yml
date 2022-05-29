@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'PrimerosAuxilios'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_05E3A122EE5D4A5490320B05CCE95D3D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_586D5AB778DE4E528C7F74D284F7CED3 }}
           package: .
